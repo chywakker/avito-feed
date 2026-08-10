@@ -2,7 +2,7 @@
 <Ads>
   <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -78,7 +78,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
@@ -98,7 +98,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>HDWD130</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -173,7 +173,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
@@ -197,7 +197,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>WD30EFRX</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -274,7 +274,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
@@ -311,7 +311,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000LM035</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -384,7 +384,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
@@ -400,7 +400,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000DX002</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -473,7 +473,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
@@ -489,7 +489,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>WD40PURZ</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -564,7 +564,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
@@ -588,7 +588,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -634,7 +634,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
@@ -660,7 +660,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SATA_16TB_ALL</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -751,7 +751,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
@@ -777,7 +777,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SATA_16TB_ALL_SPB</Id>
-    <DateBegin>2026-08-10T10:12:31</DateBegin>
+    <DateBegin>2026-08-10T10:18:41</DateBegin>
     <Address>Санкт-Петербург, Невский пр-т, 1</Address>
     <Latitude>59.93428</Latitude>
     <Longitude>30.335098</Longitude>
@@ -868,7 +868,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Да</Delivery>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
     <WeightForDelivery>0.7</WeightForDelivery>
     <LengthForDelivery>15</LengthForDelivery>
     <WidthForDelivery>10</WidthForDelivery>
