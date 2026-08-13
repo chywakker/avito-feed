@@ -2,7 +2,7 @@
 <Ads>
   <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-13T08:01:18</DateBegin>
+    <DateBegin>2026-08-13T08:09:53</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -98,7 +98,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>WD30EFRX</Id>
-    <DateBegin>2026-08-13T08:01:18</DateBegin>
+    <DateBegin>2026-08-13T08:09:53</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -212,7 +212,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000LM035</Id>
-    <DateBegin>2026-08-13T08:01:18</DateBegin>
+    <DateBegin>2026-08-13T08:09:53</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -301,7 +301,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000DX002</Id>
-    <DateBegin>2026-08-13T08:01:18</DateBegin>
+    <DateBegin>2026-08-13T08:09:53</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -390,19 +390,20 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-13T08:01:18</DateBegin>
+    <DateBegin>2026-08-13T08:09:53</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
     <Title>Жёсткий диск Seagate Exos SAS (новые, 1-14ТБ)</Title>
     <Description>🔒 Новые серверные диски Seagate Exos SAS (заводская упаковка)
 
-В наличии на складе в Новосибирске — 11 шт:
+В наличии на складе в Новосибирске — 12 шт:
 
 · 1 ТБ — 2 шт. — 4 000₽ — Exos 7E8 (ST1000NM0045)
 · 2 ТБ — 1 шт. — 7 000₽ — Exos 7E8 (ST2000NM0045)
 · 8 ТБ — 6 шт. — 21 900₽ — Exos 7E8 (ST8000NM001A/0055/0075/007A)
 · 10 ТБ — 1 шт. — 26 000₽ — Exos X10 (ST10000NM0096)
+· 12 ТБ — 1 шт. — 28 000₽ — Exos X14 (ST12000NM007)
 · 14 ТБ — 1 шт. — 35 000₽ — Exos X16 (ST14000NM002G)
 
 Все диски новые, в заводской антистатической упаковке.
@@ -446,240 +447,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <ProducerCode>ST8000NM0055</ProducerCode>
     <Type>HDD</Type>
     <Size>8 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>Омская область|20|200
-Республика Алтай|20|200
-Хакасия|20|200
-Алтайский край|20|200
-Красноярский край|20|200
-Кемеровская область|20|200
-Томская область|20|200
-Ханты-Мансийский АО|20|200
-Ямало-Ненецкий АО|20|200
-Новосибирская область|20|200
-Тюменская область|20|200</PromoManualOptions>
-  </Ad>
-  <Ad>
-    <Id>SATA_16TB_ALL</Id>
-    <DateBegin>2026-08-13T08:01:18</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Жёсткие диски Seagate 16TB новые Exos IronWolf Pro</Title>
-    <Description>🔹 Новые серверные диски Seagate 16TB: Exos X18, IronWolf Pro, Exos X14.
-Оригинальные устройства, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-📦 В НАЛИЧИИ — 42 шт:
-
-16 ТБ:
-• ST16000NM001G — 17 шт. — 34 000₽ — Exos X18
-• ST16000NE000 — 16 шт. — 34 000₽ — Exos X18
-• ST16000NM000J — 2 шт. — 34 000₽ — Exos X18
-• ST16000VE000 — 6 шт. — 35 000₽ — IronWolf Pro
-
-12 ТБ:
-• ST12000NM007 — 1 шт. — 28 000₽ — Exos X14
-
-Цена в объявлении указана за 1 ТБ. Стоимость зависит от модели — см. список выше.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модели: ST16000NM001G / ST16000NE000 / ST16000NM000J / ST16000VE000 / ST12000NM007
-▪ Объём: 16 ТБ / 12 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Рабочая нагрузка: 550 ТБ/год (Exos), 300 ТБ/год (IronWolf Pro)
-▪ Назначение: серверы, СХД, NAS, видеонаблюдение, резервное копирование
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>34000</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/ec972abf39e5f9350a65f878c02d9f7d6fa1f0d3fbf5641d9f8227df653f6496/6a789042/wmX7uFhq5iN1C1zQ3osiPmSwTkLiQaBhS4YANNk8OHUcP6CpXyXF2Lad7YBzuegNa_fS42h6N2ym94JmL8VF1w%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_1_exos_x18.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=163483&amp;hid=abda83c2a33670eb6df1c899609ba172&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b9fcc2be27df79f0f76990687e0fa209"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/7a135c64a195ef50a4c5b8ffbc54864531db19cf5e4da6efe927ec61e9bcff99/6a789042/wmX7uFhq5iN1C1zQ3osiPqn8mD7dwLLHjzUl2XgcN_WNbQRzssmOHAat9DVR-k1bkAP8xCSojHwSW9Vn-Fekfw%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_2_ironwolf_pro.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=151757&amp;hid=29feba456f53d5de3f0f126f9dbe3fea&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8d21f17ebc629c35e4cc480281938c5c"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/b2d2bdd03112829d62f33d49c56349f856e59d618ead7c0099bd8fd5b8fecd15/6a789043/wmX7uFhq5iN1C1zQ3osiPlvWJKi3S0hx0wY7dMfO8QYjLoaUrUgvhkcKwlC6c_46BLwwHOp9bYCGI9Za1Kn4Gg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_3_skyhawk_ai.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=162585&amp;hid=b2dedaa7601903863a65730ef53b72e4&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=6ed3547a95f65898e36d814b534d78c0"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/49a2f25a6f4686bf0548d3de89d0f3e35c5bd7d53f758a9a8c547c6e89b6845f/6a789043/wmX7uFhq5iN1C1zQ3osiPujFfdiRv-F-SE1IFNrtqVNLgeOJNuf4xFbXc9o_wPZq1gy7K1mub7Mo6rXdk5FdEg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_4_box.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=211309&amp;hid=eb7047412cfd566ebe70dd4f733f7342&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a99983ff717cde35fbbe175a4069e4b0"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/17ab53e5c8dd85eadf5821b9c47c25667936d4aabc539ba99efc7dc17974dac9/6a789044/wmX7uFhq5iN1C1zQ3osiPnO1d9GnZ_Sq6lzPa3Ucs5i604Mqxq4fjrHYtrwx_SuJt9qqqbWJcuCwQ1b2FOfh_A%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_5_pcb.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=163144&amp;hid=7303fa1d821e2a73422346fbeafcc575&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=25ae5e453da60f229afb4f85df52fced"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/af31499fbd84d3ae887b3cae7699e2743fd3594d010763103d4c8cc0c929890b/6a789045/wmX7uFhq5iN1C1zQ3osiPoA42lcIN_LXqXmWCfhOwcxBhhtF_h5BqkYszoE2EzySTLqdvTHRsQhi8t6YVYxfXg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_6_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=91585&amp;hid=df25f5ef7ca7d8bc3234b0fa5991f369&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5d036fe1566ac288f3a7323f82879b1d"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/9cf6d2117b54effc1fbbdffa5a3abce343915e376573230d79fadff5fdcdcf35/6a789045/wmX7uFhq5iN1C1zQ3osiPhfrDGMyXVmCYyN3PwBOVdvxm9IhB4N7nuOn4yTMIt1HkKTP1ekV7EppdZKlLhEL4Q%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_7_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=99744&amp;hid=5170fbc7c0977ac38d874386adda9408&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=bcd2d20a7e0b015c51681d760cea4f80"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/8e842b8c2eb0a5578612681a32b57d171627cd5376d694d4e343492e15642a67/6a789046/wmX7uFhq5iN1C1zQ3osiPjknu9oGy_QtbiuN36DfczdeY9CiZ-AWv_NqnrijakANnu9wBXk4_NGU9vjTmJidFw%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_8_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=94337&amp;hid=944847b1caf64a5c87e1d1239b0e19a9&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=829294db13477e14aa7da206ff82e8e1"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/6e1b438e4115e071f1bceefe39de836dc2fb05181eaf6b608704ab625d798cb3/6a78904a/wmX7uFhq5iN1C1zQ3osiPh7BWrzjEEgeGWEzMj0djjEKfs6jLSGsAhB-_fVqiO1GJf4hl99tIvdgwk3kjZhndQ%3D%3D?uid=1815293422&amp;filename=promo1_nadezhny_prodavets.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=129338&amp;hid=79b6f2aafb0107efc7e3b23e06a4b92d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2c1fe6b299f5a249f303d08e8ee4c652"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/35f861b724670446fef2681e6f5df9154f3a26547b2642d990b3597adea8da8c/6a78904a/wmX7uFhq5iN1C1zQ3osiPrYCjBTiKImqEkEUz_d1t3G87qA1FawJoBjMzbt2Q4dmQjVIEOujwmrI_k5BQM8GSA%3D%3D?uid=1815293422&amp;filename=promo2_assortiment.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=169525&amp;hid=82ddd34bc205f5a296eb76a08fb4c62f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7275569f274485e37d88217f8afe8d21"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST16000NM001G</ProducerCode>
-    <Type>HDD</Type>
-    <Size>16 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-    <Promo>Manual</Promo>
-    <PromoManualOptions>Омская область|20|200
-Республика Алтай|20|200
-Хакасия|20|200
-Алтайский край|20|200
-Красноярский край|20|200
-Кемеровская область|20|200
-Томская область|20|200
-Ханты-Мансийский АО|20|200
-Ямало-Ненецкий АО|20|200
-Новосибирская область|20|200
-Тюменская область|20|200</PromoManualOptions>
-  </Ad>
-  <Ad>
-    <Id>SATA_16TB_ALL_SPB</Id>
-    <DateBegin>2026-08-13T08:01:18</DateBegin>
-    <Address>Санкт-Петербург, Невский пр-т, 1</Address>
-    <Latitude>59.93428</Latitude>
-    <Longitude>30.335098</Longitude>
-    <Title>Новые жёсткие диски Seagate 16 ТБ Exos IronWolf</Title>
-    <Description>🔹 Серверные жёсткие диски Seagate 16 ТБ новых моделей: Exos X18, IronWolf Pro, Exos X14.
-Оригинальная продукция Seagate, гарантия 12 месяцев. Заводской Refurbished — ноль запусков, нераскрытая запечатанная упаковка от производителя.
-
-📦 В НАЛИЧИИ — 42 диска:
-
-16 ТБ:
-• ST16000NM001G — 17 шт. — 34 000₽ — Exos X18
-• ST16000NE000 — 16 шт. — 34 000₽ — Exos X18
-• ST16000NM000J — 2 шт. — 34 000₽ — Exos X18
-• ST16000VE000 — 6 шт. — 35 000₽ — IronWolf Pro
-
-12 ТБ:
-• ST12000NM007 — 1 шт. — 28 000₽ — Exos X14
-
-Цена за штуку зависит от модели. Указанная в объявлении стоимость — за 1 ТБ.
-
-💯 КАЧЕСТВО И ПРОВЕРКА
-Только проверенные поставщики. Любая партия проходит выборочный контроль полным сканированием. По запросу — индивидуальное вскрытие и тестирование конкретных дисков из вашего заказа.
-📌 БОНУС
-Напишите в чат кодовое слово «БЕСПЛАТНАЯ ДОСТАВКА» и получите бесплатную доставку до терминала ТК.
-
-🏢 ОПТ И ЮРИДИЧЕСКИМ ЛИЦАМ
-✓ Полный пакет закрывающих документов для ИП и ООО.
-✓ Оплата по счёту, с НДС или без НДС.
-✓ Оптовые цены от 5 единиц — индивидуальные условия.
-✓ Готовим документы для тендеров и госзакупок: КП, спецификации.
-✓ Под заказ поставляем партии любого объёма (срок 4–6 недель).
-✓ Более 200 компаний по России доверяют нам.
-
-📦 ВЕСЬ АССОРТИМЕНТ
-Диски в наличии и под заказ — от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Нужна другая модель или объём? Напишите — найдём под ваш проект!
-
-✅ ПОЧЕМУ МЫ
-▸ Поставки напрямую — без наценок посредников
-▸ Гарантия 1 год на каждый диск
-▸ Строго оригинальная продукция
-▸ Отправка день в день при оплате до 15:00
-▸ Профессиональная упаковка: антистатик + пупырчатая плёнка
-▸ Любая удобная форма оплаты
-▸ Опыт работы с тендерами
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модели: ST16000NM001G / ST16000NE000 / ST16000NM000J / ST16000VE000 / ST12000NM007
-▪ Объём: 16 ТБ и 12 ТБ
-▪ Буфер: 256 МБ
-▪ Скорость: 7200 об/мин
-▪ Тип записи: CMR
-▪ Форм-фактор: 3.5 дюйма
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Нагрузка: 550 ТБ/год (Exos), 300 ТБ/год (IronWolf Pro)
-▪ Назначение: серверное оборудование, СХД, NAS, системы видеонаблюдения
-▪ Состояние: Новые, заводская упаковка
-
-🚚 ОТПРАВКА И САМОВЫВОЗ
-Доставка по всей России:
-▪ Авито Доставка (СДЭК, Boxberry, Почта России, 5Post)
-▪ Транспортные компании — СДЭК, ПЭК, Деловые Линии
-▪ Курьерская доставка (по предоплате)
-Самовывоз: Санкт-Петербург.
-
-🎯 Получите оригинальный диск Seagate по лучшей цене в России.
-Напишите в чат — поможем выбрать оптимальный диск под вашу задачу и бюджет.</Description>
-    <Price>34000</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/2624f420842470d7fc24ef88d144bd8f95ba823445333e9e485ac37a9aba26de/6a789046/wmX7uFhq5iN1C1zQ3osiPvJV8_KnZuVZpr8BWV0JoHf0JL3k9SgxVAmcqIZAG45ujBBV_ge0XJJMv8nTRQTMZQ%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_1_exos_x18.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=199404&amp;hid=9cbbea2e9a6770995962601769b418ff&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=35cc1eda9c0682e8b678423ca2be8f0b"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/2a7ba5424411f94bb3a46d767bf7cccb302257bae27c7ac4f91e02168d77a2d9/6a789046/wmX7uFhq5iN1C1zQ3osiPppz7JY46USMmMpkjQgVtJW2jYr8uuVc2MSEaqDJJ6SJuptZE0FjS2E0ooYIrdVCkA%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_2_ironwolf_pro.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=218143&amp;hid=305b36e505a07cfe9119a2cf2decc114&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=1d9a7ceacf2b0f93f98a716f2a7fb92f"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/1000ae49491edea8e4cf13ee3a34530f741ccfe6e78dda11396c83667028b700/6a789047/wmX7uFhq5iN1C1zQ3osiPomw862VcJlCdUNH_OY-cxoXFy85XJXYehBDGsUD8yqYomRPGYa7I59CtIyhyF146Q%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_3_skyhawk_ai.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=198502&amp;hid=1d83423be30e4c50d7cdd4bfdd49b60e&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c1f45c86540fba0b1325018abcfcec1b"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/61647e5f452a932b78de81b420f81b62aa3e67b83a3d43d771e3ce899fe2cd4a/6a789047/wmX7uFhq5iN1C1zQ3osiPhYlj_Bt3tYwsl7ATuRzKCFYvoQAgdpXiKA5G2mIP6z1VjEdTQYWivr8FQUw-oRZLA%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_4_box.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=294418&amp;hid=5b766aaa480d87f5d3de67ac9b418eee&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ccf2e2819cc23b79986902405a879c6e"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/fe05aa825ec9e978c2a1c59d4775092b29345fe7f72d87e693fba3ce08e48805/6a789048/wmX7uFhq5iN1C1zQ3osiPvbPHcIq5NuAIKfAgjmV77TXiqfRuNDISQZZF7Hr8TeRNhIMPZyaQvEDy0AIfjMZBg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_5_pcb.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=198676&amp;hid=22cc345bb9ed5d6db087fce10b904b9f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=930631d27f46f0e350d07108d08407fd"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/d3683965a81d1a4412770a2a1c24a2885147897cca6bb2d17bcf993a4c08a0ad/6a789048/wmX7uFhq5iN1C1zQ3osiPvViWmHCjGfykGYZxlHKiqfx22fIRXYcOBaflNziWCX-L-qBkuOESLY_eOk26Pwbdg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_6_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=116792&amp;hid=3685c415392ba5990053ef42bd6e39c5&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=06726bcc1e219345f8f15b9ec31237b9"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/4c67d4e5f74a39bc8e51ec284c463061263e2e112ed7ea55a2b4a4a1d9e10171/6a789049/wmX7uFhq5iN1C1zQ3osiPgGMZKNHRewX_h4QdI2d1e3j0IXCpvvYuK0BFfXBE955N1LnC2RE8CUGB5KpkqdQfQ%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_7_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=110867&amp;hid=2339f959d06e191e4d066dc30225f3c9&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ed59001c42391f52037522cd4d20b044"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/b972f32358048a53f80ec03e3ea9cf1ef36b5c57cb021f1e1c27f2801a79fd09/6a789049/wmX7uFhq5iN1C1zQ3osiPh2oU3AMxK46UbxnbV1dQbWgEN-8TYWkBa1QcWtAe00yfUwmsgVutXbPc6yR26Blmg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_8_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=122440&amp;hid=a9a5e8f97954aaebdad888ed2aa9ee9a&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b88e207ede5da10f19aa914877f734c6"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/6e1b438e4115e071f1bceefe39de836dc2fb05181eaf6b608704ab625d798cb3/6a78904a/wmX7uFhq5iN1C1zQ3osiPh7BWrzjEEgeGWEzMj0djjEKfs6jLSGsAhB-_fVqiO1GJf4hl99tIvdgwk3kjZhndQ%3D%3D?uid=1815293422&amp;filename=promo1_nadezhny_prodavets.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=129338&amp;hid=79b6f2aafb0107efc7e3b23e06a4b92d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2c1fe6b299f5a249f303d08e8ee4c652"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/35f861b724670446fef2681e6f5df9154f3a26547b2642d990b3597adea8da8c/6a78904a/wmX7uFhq5iN1C1zQ3osiPrYCjBTiKImqEkEUz_d1t3G87qA1FawJoBjMzbt2Q4dmQjVIEOujwmrI_k5BQM8GSA%3D%3D?uid=1815293422&amp;filename=promo2_assortiment.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=169525&amp;hid=82ddd34bc205f5a296eb76a08fb4c62f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7275569f274485e37d88217f8afe8d21"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST16000NM001G</ProducerCode>
-    <Type>HDD</Type>
-    <Size>16 ТБ</Size>
     <FormFactor>3.5</FormFactor>
     <Promo>Manual</Promo>
     <PromoManualOptions>Омская область|20|200
