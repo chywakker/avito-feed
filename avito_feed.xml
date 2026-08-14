@@ -461,4 +461,64 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
 Новосибирская область|20|200
 Тюменская область|20|200</PromoManualOptions>
   </Ad>
+  <Ad>
+    <Id>ST14000NM002G</Id>
+    <DateBegin>2026-08-14T11:30:00</DateBegin>
+    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
+    <Title>Жёсткий диск SAS 14TB ST14000NM002G Seagate Exos</Title>
+    <Description>Снято с продажи</Description>
+    <Price>34907</Price>
+    <Category>Товары для компьютера</Category>
+    <GoodsType>Комплектующие</GoodsType>
+    <ProductsType>Жёсткие диски</ProductsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Closed</AdStatus>
+    <Brand>Seagate</Brand>
+    <ProducerCode>ST14000NM002G</ProducerCode>
+    <Type>HDD</Type>
+    <Size>14 ТБ</Size>
+    <FormFactor>3.5</FormFactor>
+  </Ad>
+  <Ad>
+    <Id>ST1000NM0045</Id>
+    <DateBegin>2026-08-14T11:30:00</DateBegin>
+    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
+    <Title>Жёсткий диск SAS 1тб ST1000NM0045 Seagate Exos</Title>
+    <Description>Снято с продажи</Description>
+    <Price>7890</Price>
+    <Category>Товары для компьютера</Category>
+    <GoodsType>Комплектующие</GoodsType>
+    <ProductsType>Жёсткие диски</ProductsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Closed</AdStatus>
+    <Brand>Seagate</Brand>
+    <ProducerCode>ST1000NM0045</ProducerCode>
+    <Type>HDD</Type>
+    <Size>1 ТБ</Size>
+    <FormFactor>3.5</FormFactor>
+  </Ad>
+  <Ad>
+    <Id>ST8000NM0075</Id>
+    <DateBegin>2026-08-14T11:30:00</DateBegin>
+    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
+    <Title>Жёсткий диск SAS 8TB ST8000NM0075 Seagate Exos</Title>
+    <Description>Снято с продажи</Description>
+    <Price>18650</Price>
+    <Category>Товары для компьютера</Category>
+    <GoodsType>Комплектующие</GoodsType>
+    <ProductsType>Жёсткие диски</ProductsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Closed</AdStatus>
+    <Brand>Seagate</Brand>
+    <ProducerCode>ST8000NM0075</ProducerCode>
+    <Type>HDD</Type>
+    <Size>8 ТБ</Size>
+    <FormFactor>3.5</FormFactor>
+  </Ad>
 </Ads>
