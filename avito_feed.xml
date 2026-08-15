@@ -2,7 +2,7 @@
 <Ads>
   <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-15T14:00:22</DateBegin>
+    <DateBegin>2026-08-15T14:09:31</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -92,7 +92,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000LM035</Id>
-    <DateBegin>2026-08-15T14:00:22</DateBegin>
+    <DateBegin>2026-08-15T14:09:31</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -179,7 +179,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000DX002</Id>
-    <DateBegin>2026-08-15T14:00:22</DateBegin>
+    <DateBegin>2026-08-15T14:09:31</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -266,7 +266,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-15T14:00:22</DateBegin>
+    <DateBegin>2026-08-15T14:09:31</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -325,8 +325,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST14000NM002G</Id>
-    <DateBegin>2026-08-15T14:00:22</DateBegin>
-    <DateEnd>2026-08-14T14:00:22</DateEnd>
+    <DateBegin>2026-08-15T14:09:31</DateBegin>
+    <DateEnd>2026-08-14T14:09:31</DateEnd>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -382,15 +382,13 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
 
 🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
 Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>0</Price>
+    <Price>35000</Price>
     <Category>Товары для компьютера</Category>
     <GoodsType>Комплектующие</GoodsType>
     <ProductsType>Жёсткие диски</ProductsType>
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
     <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/6e1b438e4115e071f1bceefe39de836dc2fb05181eaf6b608704ab625d798cb3/6a78904a/wmX7uFhq5iN1C1zQ3osiPh7BWrzjEEgeGWEzMj0djjEKfs6jLSGsAhB-_fVqiO1GJf4hl99tIvdgwk3kjZhndQ%3D%3D?uid=1815293422&amp;filename=promo1_nadezhny_prodavets.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=129338&amp;hid=79b6f2aafb0107efc7e3b23e06a4b92d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2c1fe6b299f5a249f303d08e8ee4c652"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/35f861b724670446fef2681e6f5df9154f3a26547b2642d990b3597adea8da8c/6a78904a/wmX7uFhq5iN1C1zQ3osiPrYCjBTiKImqEkEUz_d1t3G87qA1FawJoBjMzbt2Q4dmQjVIEOujwmrI_k5BQM8GSA%3D%3D?uid=1815293422&amp;filename=promo2_assortiment.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=169525&amp;hid=82ddd34bc205f5a296eb76a08fb4c62f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7275569f274485e37d88217f8afe8d21"/>
     </Images>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
@@ -410,8 +408,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000NM0045</Id>
-    <DateBegin>2026-08-15T14:00:22</DateBegin>
-    <DateEnd>2026-08-14T14:00:22</DateEnd>
+    <DateBegin>2026-08-15T14:09:31</DateBegin>
+    <DateEnd>2026-08-14T14:09:31</DateEnd>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -467,15 +465,13 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
 
 🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
 Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>0</Price>
+    <Price>4000</Price>
     <Category>Товары для компьютера</Category>
     <GoodsType>Комплектующие</GoodsType>
     <ProductsType>Жёсткие диски</ProductsType>
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
     <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/6e1b438e4115e071f1bceefe39de836dc2fb05181eaf6b608704ab625d798cb3/6a78904a/wmX7uFhq5iN1C1zQ3osiPh7BWrzjEEgeGWEzMj0djjEKfs6jLSGsAhB-_fVqiO1GJf4hl99tIvdgwk3kjZhndQ%3D%3D?uid=1815293422&amp;filename=promo1_nadezhny_prodavets.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=129338&amp;hid=79b6f2aafb0107efc7e3b23e06a4b92d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2c1fe6b299f5a249f303d08e8ee4c652"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/35f861b724670446fef2681e6f5df9154f3a26547b2642d990b3597adea8da8c/6a78904a/wmX7uFhq5iN1C1zQ3osiPrYCjBTiKImqEkEUz_d1t3G87qA1FawJoBjMzbt2Q4dmQjVIEOujwmrI_k5BQM8GSA%3D%3D?uid=1815293422&amp;filename=promo2_assortiment.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=169525&amp;hid=82ddd34bc205f5a296eb76a08fb4c62f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7275569f274485e37d88217f8afe8d21"/>
     </Images>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
@@ -495,8 +491,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST8000NM0075</Id>
-    <DateBegin>2026-08-15T14:00:22</DateBegin>
-    <DateEnd>2026-08-14T14:00:22</DateEnd>
+    <DateBegin>2026-08-15T14:09:31</DateBegin>
+    <DateEnd>2026-08-14T14:09:31</DateEnd>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -552,15 +548,13 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
 
 🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
 Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>0</Price>
+    <Price>21900</Price>
     <Category>Товары для компьютера</Category>
     <GoodsType>Комплектующие</GoodsType>
     <ProductsType>Жёсткие диски</ProductsType>
     <AdType>Товар приобретен на продажу</AdType>
     <Condition>Новое</Condition>
     <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/6e1b438e4115e071f1bceefe39de836dc2fb05181eaf6b608704ab625d798cb3/6a78904a/wmX7uFhq5iN1C1zQ3osiPh7BWrzjEEgeGWEzMj0djjEKfs6jLSGsAhB-_fVqiO1GJf4hl99tIvdgwk3kjZhndQ%3D%3D?uid=1815293422&amp;filename=promo1_nadezhny_prodavets.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=129338&amp;hid=79b6f2aafb0107efc7e3b23e06a4b92d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2c1fe6b299f5a249f303d08e8ee4c652"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/35f861b724670446fef2681e6f5df9154f3a26547b2642d990b3597adea8da8c/6a78904a/wmX7uFhq5iN1C1zQ3osiPrYCjBTiKImqEkEUz_d1t3G87qA1FawJoBjMzbt2Q4dmQjVIEOujwmrI_k5BQM8GSA%3D%3D?uid=1815293422&amp;filename=promo2_assortiment.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=169525&amp;hid=82ddd34bc205f5a296eb76a08fb4c62f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=7275569f274485e37d88217f8afe8d21"/>
     </Images>
     <ListingFee>Package</ListingFee>
     <AdStatus>Free</AdStatus>
