@@ -2,7 +2,7 @@
 <Ads>
   <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-15T13:00:21</DateBegin>
+    <DateBegin>2026-08-15T14:00:22</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -92,7 +92,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000LM035</Id>
-    <DateBegin>2026-08-15T13:00:21</DateBegin>
+    <DateBegin>2026-08-15T14:00:22</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -179,7 +179,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000DX002</Id>
-    <DateBegin>2026-08-15T13:00:21</DateBegin>
+    <DateBegin>2026-08-15T14:00:22</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -266,7 +266,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-15T13:00:21</DateBegin>
+    <DateBegin>2026-08-15T14:00:22</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -325,8 +325,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST14000NM002G</Id>
-    <DateBegin>2026-08-15T13:00:21</DateBegin>
-    <DateEnd>2026-08-14T13:00:21</DateEnd>
+    <DateBegin>2026-08-15T14:00:22</DateBegin>
+    <DateEnd>2026-08-14T14:00:22</DateEnd>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -410,8 +410,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000NM0045</Id>
-    <DateBegin>2026-08-15T13:00:21</DateBegin>
-    <DateEnd>2026-08-14T13:00:21</DateEnd>
+    <DateBegin>2026-08-15T14:00:22</DateBegin>
+    <DateEnd>2026-08-14T14:00:22</DateEnd>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -495,8 +495,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST8000NM0075</Id>
-    <DateBegin>2026-08-15T13:00:21</DateBegin>
-    <DateEnd>2026-08-14T13:00:21</DateEnd>
+    <DateBegin>2026-08-15T14:00:22</DateBegin>
+    <DateEnd>2026-08-14T14:00:22</DateEnd>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
