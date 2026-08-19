@@ -2,7 +2,7 @@
 <Ads>
   <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -92,7 +92,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000LM035</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -179,7 +179,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000DX002</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -266,7 +266,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -324,7 +324,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_2TB</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -370,7 +370,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_14TB</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -416,7 +416,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SATA_14TB</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -470,7 +470,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SATA_16TB_ALL</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -527,7 +527,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>WD30PURX</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -582,7 +582,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST12000NM0007</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -638,7 +638,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST8000DM004</Id>
-    <DateBegin>2026-08-19T13:30:47</DateBegin>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -690,6 +690,63 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <ProducerCode>ST8000DM004</ProducerCode>
     <Type>HDD</Type>
     <Size>8 ТБ</Size>
+    <FormFactor>3.5</FormFactor>
+  </Ad>
+  <Ad>
+    <Id>ST6000VX001</Id>
+    <DateBegin>2026-08-19T13:42:28</DateBegin>
+    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
+    <Latitude>55.038227</Latitude>
+    <Longitude>82.919379</Longitude>
+    <Title>Жёсткий диск Seagate SkyHawk 6TB ST6000VX001 новый видеонаблюдение</Title>
+    <Description>Новый жёсткий диск Seagate SkyHawk 6TB для систем видеонаблюдения
+
+В наличии на складе в Новосибирске — 1 шт.
+
+Модель: ST6000VX001
+Серия: SkyHawk
+Объём: 6 ТБ
+Интерфейс: SATA 6 Гбит/с
+Скорость: 7200 об/мин
+Кэш: 256 МБ
+Форм-фактор: 3.5"
+Технология записи: CMR
+Нагрузка: 180 ТБ/год
+Назначение: круглосуточное видеонаблюдение (24/7)
+
+Подходит для видеорегистраторов, NVR, систем наблюдения, NAS.
+
+Самовывоз — Новосибирск. Отправка по РФ.
+Работаем с юрлицами — счёт на оплату, УПД.</Description>
+    <Price>7900</Price>
+    <Category>Товары для компьютера</Category>
+    <GoodsType>Комплектующие</GoodsType>
+    <ProductsType>Жёсткие диски</ProductsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST6000VX001_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST6000VX001_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST6000VX001_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST6000VX001_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST6000VX001_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
+    </Images>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <Delivery>Самовывоз с онлайн-оплатой</Delivery>
+    <WeightForDelivery>0.7</WeightForDelivery>
+    <LengthForDelivery>15</LengthForDelivery>
+    <WidthForDelivery>10</WidthForDelivery>
+    <HeightForDelivery>3</HeightForDelivery>
+    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
+    <Brand>Seagate</Brand>
+    <ProducerCode>ST6000VX001</ProducerCode>
+    <Type>HDD</Type>
+    <Size>6 ТБ</Size>
     <FormFactor>3.5</FormFactor>
   </Ad>
 </Ads>
