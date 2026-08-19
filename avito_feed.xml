@@ -1,97 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads>
   <Ad>
-    <Id>ST3000DM007</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск ST3000DM007 Seagate BarraCuda</Title>
-    <Description>🔹 Новый Жёсткий диск 3 ТБ ST3000DM007 Seagate BarraCuda.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: ST3000DM007
-▪ Серия: Seagate BarraCuda
-▪ Объём: 3 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 5400 об/мин
-▪ Технология записи: SMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: для настольного ПК
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>6900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST3000DM007/img_0620ab7aa8fb.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST3000DM007/img_a0eb7efecdf1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST3000DM007/img_f164a27bd682.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST3000DM007/img_fed458791ab8.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST3000DM007/victoria_scan.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST3000DM007</ProducerCode>
-    <Type>HDD</Type>
-    <Size>3 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -180,548 +91,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <FormFactor>3.5</FormFactor>
   </Ad>
   <Ad>
-    <Id>ST8000VN004</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск ST8000VN004 Seagate IronWolf</Title>
-    <Description>🔹 Новый Жёсткий диск 8 ТБ ST8000VN004 Seagate IronWolf.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: ST8000VN004
-▪ Серия: Seagate IronWolf
-▪ Объём: 8 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: для NAS
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>22900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VN004/20260719_095956_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VN004/20260719_095956_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VN004/20260719_095956_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VN004/20260719_095956_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VN004/20260719_095956_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VN004/20260719_095956_6.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST8000VN004</ProducerCode>
-    <Type>HDD</Type>
-    <Size>8 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>ST8000VX0022</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск ST8000VX0022 Seagate SkyHawk AI</Title>
-    <Description>🔹 Новый Жёсткий диск 8 ТБ ST8000VX0022 Seagate SkyHawk AI.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: ST8000VX0022
-▪ Серия: Seagate SkyHawk AI
-▪ Объём: 8 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: для видеонаблюдения
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>21900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VX0022/20260719_095429_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VX0022/20260719_095429_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VX0022/20260719_095429_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VX0022/20260719_095429_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VX0022/20260719_095429_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VX0022/20260719_095429_6.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VX0022/victoria_scan.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST8000VX0022</ProducerCode>
-    <Type>HDD</Type>
-    <Size>8 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>HDWD130</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск HDWD130 Toshiba P300 3TB</Title>
-    <Description>🔹 Новый Жёсткий диск 3 ТБ HDWD130 Toshiba P300.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: HDWD130
-▪ Серия: Toshiba P300
-▪ Объём: 3 ТБ
-▪ Кэш: 64 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: десктопный
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>7900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/c61d6fdfabc4d2278533011af0f0d3fe40dd4ebd785fca015934caa4bd0d64ce/6a789031/wmX7uFhq5iN1C1zQ3osiPmKoNsx5Z6FJ4CUIdMjMP82Kgx1k9iUVETs56tV16kg_CuMXFWFPhOGxyEAPiw89Tw%3D%3D?uid=1815293422&amp;filename=img_0e189198cfd2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=223449&amp;hid=cb8ddcea7d9398377d8fee8af1297960&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5e6942e54e62469d13a3da705d259847"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/85b69de9f323d347c1c0057671e75ef778022da6cc1d99f42ead0a75cdcab0fd/6a789032/wmX7uFhq5iN1C1zQ3osiPp9JecauOPlxqamyt4GowguuyDU97sUgFi360O7T0Tvl0bstCxgF1Czyk9ZWkmKs8A%3D%3D?uid=1815293422&amp;filename=img_3196e6f2cee4.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=226612&amp;hid=b552d5dbc245e18f6ef38a5628853fa1&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=52fa68dba0f959385a39a7f2371c9a8d"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/2e4bc5ef897e5a7a54821d1a7f1f0135e64ed45fe7b703802d284641e23ca962/6a789032/wmX7uFhq5iN1C1zQ3osiPk9R1mDFhzAwqFrxbxOnDusa_5PNEmEkUI9kmqO5lCf70ghOs5jUC380tHG1PCt32Q%3D%3D?uid=1815293422&amp;filename=img_56ef1c2744b4.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=173365&amp;hid=7d9825bcbc02c145720cb42b06fd6fd2&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=1732b41878ded951f899ff5db35b1644"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/e23cbfdf2cdc8ea87e3e646ec3d26413bd2d0621e036ac5cb36c83ad1288e5d6/6a789033/wmX7uFhq5iN1C1zQ3osiPs2npbaPaU1ibD6F6QQTpcbDjZsZGuPn11Bldnj2QmXRGX9ml7bOPNAAI6HgJ7gpwA%3D%3D?uid=1815293422&amp;filename=img_b21037e0cb90.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=220754&amp;hid=03ee1eb8a119fce973e3990f66347357&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=cd2cbbe355f7da1cd1115125ec2ee323"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/6293b2b51f2d3747fecdaf80b40b9c433980c2a1d5a8c349a7ced45a69bd55a3/6a789033/wmX7uFhq5iN1C1zQ3osiPoaSLgc2rjOwShKK0N6_5O4vMUpL0aETUU4lOijsHUbvxzDpwsmATCkYcSpHtg632Q%3D%3D?uid=1815293422&amp;filename=img_e4b7d1ae9c62.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=156654&amp;hid=a62822fd3a8f13458abb05c1a56b6a75&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=2e7cdfe0c651e822bd0f4abd1aba6af5"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Toshiba</Brand>
-    <ProducerCode>HDWD130</ProducerCode>
-    <Type>HDD</Type>
-    <Size>3 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>WD30PURZ</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск WD30PURZ WD Purple</Title>
-    <Description>🔹 Новый Жёсткий диск 3 ТБ WD30PURZ WD Purple.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: WD30PURZ
-▪ Серия: WD Purple
-▪ Объём: 3 ТБ
-▪ Кэш: 64 МБ
-▪ Скорость вращения: 5400 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: для видеонаблюдения
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>6900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD30PURZ/1784182976_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD30PURZ/1784182976_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD30PURZ/1784182976_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD30PURZ/1784182976_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD30PURZ/1784182976_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD30PURZ/victoria_scan.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Western Digital</Brand>
-    <ProducerCode>WD30PURZ</ProducerCode>
-    <Type>HDD</Type>
-    <Size>3 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>WD30EFRX</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск WD30EFRX WD Red</Title>
-    <Description>🔹 Новый Жёсткий диск 3 ТБ WD30EFRX WD Red.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: WD30EFRX
-▪ Серия: WD Red
-▪ Объём: 3 ТБ
-▪ Кэш: 64 МБ
-▪ Скорость вращения: 5400 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: для NAS
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>7900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/10719d1f049da3397df0de592d2fabbbca0ef27844737f35cba5c5cf1dc039e9/6a789034/wmX7uFhq5iN1C1zQ3osiPoBpZ6OYbdGznsMekJ-aBINxIawScB7uKEwttUp_6eilwYw5s2TyOvae5LElLMyBIQ%3D%3D?uid=1815293422&amp;filename=img_87ee1599c3bc.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=153269&amp;hid=886675cc35d4df5dfdf3ac90e1b9315e&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=3a41490660ac991854d772d334a14f5e"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/b86b77fc2fe91fe060e5d4c45e1b28c353e326f72ee2a492637d8bc9212cf66d/6a789034/wmX7uFhq5iN1C1zQ3osiPo21hstYR_rflZ8m4ghu_XPViAyu9vYHFeIC0L_53SKlu2kegV59HSXYEGk-QZ0xBw%3D%3D?uid=1815293422&amp;filename=img_98ae194e3916.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=170839&amp;hid=1492616c0c1bb980ba69a92a469086cb&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=4d4151f8cdfb10d05bf9b4c622ec7301"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/90e83c4dd9b6741dedd177c9000b365aeba947c5f5a9779d8b9479d2db2afe77/6a789035/wmX7uFhq5iN1C1zQ3osiPpbS30hc3Oz9n6OHS8q-wOA-cvMLZgvUZ2xFJ8bZUZKJJYM7397uc0YcVjz0Kr3i4w%3D%3D?uid=1815293422&amp;filename=img_c03bbecc733c.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=208768&amp;hid=3820b32255501f613e78d00ae7fc6146&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=0d3f9e1acd84cd9b2922aa3277783c98"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/c28a6eb3f835586d9de6abadcc39691eac8cbdf0bc1165f811e13320b42cf7c1/6a789035/wmX7uFhq5iN1C1zQ3osiPp0R1r4u5t5L6rqP9XrkgfgubKhbeZQbxtqJouKlutINo9TXhGnXADn9mawM5T-bqg%3D%3D?uid=1815293422&amp;filename=img_cfd5d6e05d2b.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=167885&amp;hid=235c64a1ab07de77110abcb7855ccfa0&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=0997060af778022fc6bc8a2a01d3dd5b"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/c877204c925182acadd795ff55bd10333fc91631259c9de60c1deeaa968512f9/6a789036/wmX7uFhq5iN1C1zQ3osiPmGIS-5yXcdDjqtIRW1H6197BaIYiR6i43e2VExdq_xBSSeTaguqU433Mzu5HlBC7Q%3D%3D?uid=1815293422&amp;filename=img_ddda0d01a811.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=175181&amp;hid=19dc24739b9d9eeadbbef92f9f3128ed&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5ebc373e285bdabc6828efd4539706db"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/af40ea00fa24714763b420d536ce61b7067c16ad2c013e1fd6749631e18bb67e/6a789036/wmX7uFhq5iN1C1zQ3osiPrrtkEVEBFM5PzkbVErfsRZ9Sa0v6_VSYK6u2bUCllHxrgqkXLIFcQtk6suCqJ2TSA%3D%3D?uid=1815293422&amp;filename=img_e23df35217bc.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=161089&amp;hid=811f5409cdb0e1f3ad1cd3e550153df4&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=856fcd3870d7b31cbc021fbc781bc940"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/ccce150b8d1ed16b6e0cc9094859b986628e9097fcd836fa78d9a923033c0242/6a789037/wmX7uFhq5iN1C1zQ3osiPmzqgdREj2jITCI8OKi9vxz_QuEHrx5j1taf7Mttxr3C8Q3OJ1UctItqd9EZ6pVdEQ%3D%3D?uid=1815293422&amp;filename=victoria_scan.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=99270&amp;hid=f838c90681c8dbbaee036169793696c8&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c1a7fef47472d464c20aba6b9bb4925b"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Western Digital</Brand>
-    <ProducerCode>WD30EFRX</ProducerCode>
-    <Type>HDD</Type>
-    <Size>3 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>HUS726T4TALE6L4</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск HUS726T4TALE6L4 WD Ultrastar</Title>
-    <Description>🔹 Новый Жёсткий диск 4 ТБ HUS726T4TALE6L4 WD Ultrastar.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: HUS726T4TALE6L4
-▪ Серия: WD Ultrastar
-▪ Объём: 4 ТБ
-▪ Кэш: 128 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: корпоративный серверный накопитель
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>12593</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/HUS726T4TALE6L4/img_1c3986f60122.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/HUS726T4TALE6L4/img_1f998c253249.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/HUS726T4TALE6L4/img_4e68fd74ee5a.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/HUS726T4TALE6L4/img_c4fe1e4aede8.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/HUS726T4TALE6L4/img_ded776f17477.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Western Digital</Brand>
-    <ProducerCode>HUS726T4TALE6L4</ProducerCode>
-    <Type>HDD</Type>
-    <Size>4 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
     <Id>ST1000LM035</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -808,7 +179,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000DX002</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -894,542 +265,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <FormFactor>3.5</FormFactor>
   </Ad>
   <Ad>
-    <Id>ST8000VE001</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
-    <Latitude>55.787858</Latitude>
-    <Longitude>49.123378</Longitude>
-    <Title>Новый Жёсткий диск ST8000VE001 Seagate SkyHawk AI</Title>
-    <Description>🔹 Новый Жёсткий диск 8 ТБ ST8000VE001 Seagate SkyHawk AI.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: ST8000VE001
-▪ Серия: Seagate SkyHawk AI
-▪ Объём: 8 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: для видеонаблюдения
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>21900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VE001/PXL_20260427_115211265~2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VE001/PXL_20260427_115214136~2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VE001/PXL_20260427_115221910~2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST8000VE001/PXL_20260427_115226259~2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST8000VE001</ProducerCode>
-    <Type>HDD</Type>
-    <Size>8 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>ST16000VE002</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск ST16000VE002 Seagate SkyHawk AI 16TB</Title>
-    <Description>🔹 Новый Жёсткий диск 16TB ST16000VE002 Seagate SkyHawk AI.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: ST16000VE002
-▪ Серия: Seagate SkyHawk AI
-▪ Объём: 16TB
-▪ Кэш: —
-▪ Скорость вращения: — об/мин
-▪ Технология записи: —
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: —
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>32900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST16000VE002/ST16000VE002_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST16000VE002/ST16000VE002_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST16000VE002/ST16000VE002_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST16000VE002/ST16000VE002_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST16000VE002/ST16000VE002_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST16000VE002/ST16000VE002_6.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST16000VE002</ProducerCode>
-    <Type>HDD</Type>
-    <Size>16 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>WD40PURZ</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск WD40PURZ Western Digital Purple</Title>
-    <Description>🔹 Новый Жёсткий диск 4TB WD40PURZ Western Digital Purple.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: WD40PURZ
-▪ Серия: Western Digital Purple
-▪ Объём: 4TB
-▪ Кэш: —
-▪ Скорость вращения: — об/мин
-▪ Технология записи: —
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: —
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>9900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/caf8d09d5a7b0f2d5a34490611288a6cf3425b22ca23ab1c350d8001c6e57c7c/6a78903b/wmX7uFhq5iN1C1zQ3osiPspFpvc7HN92TiQXUvdy04-YHX6dQT5baOjQzI8VrtXJwKQPEqY5_J3QbKivoXvT0g%3D%3D?uid=1815293422&amp;filename=WD40PURZ_1.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=139519&amp;hid=889ba79d47dee7288847812749dbdc19&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=98c9c1f5d452f94eee2911d44ed3c8b2"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/f49a8df63c33dc1c35230e197460c230ebd705c12dd05cca299f00e26e70ccc9/6a78903b/wmX7uFhq5iN1C1zQ3osiPp98mcioGLo07gYxHFjoe1mKf4_57u4UDd0xaWbp5-1IFVdTY5-6Nh0mqsQQ3QBKPw%3D%3D?uid=1815293422&amp;filename=WD40PURZ_2.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=184861&amp;hid=4f3b0a0a45f2687d38982e8708100be7&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=90b5ae35a7a2f38514499698c916050f"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/a9ef8cf294dfc3dd09fd26ef86f9f3d9bef00cf0de4bcea0619ad067902890ef/6a78903c/wmX7uFhq5iN1C1zQ3osiPlBbt5g-Ssun3rPOyu_paqheYyKhDKZfHc-fB_zI5r8TdzWVTYWZlCAplspXAypRXw%3D%3D?uid=1815293422&amp;filename=WD40PURZ_3.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=160464&amp;hid=476b85f679cd38d7b9c73799c697536d&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c57c38b6408a61f72636d3d031751749"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/ace7acafee11c7bdfe9a3c0543ba9e18ef1b0237872f3e335752e9978844896f/6a78903c/wmX7uFhq5iN1C1zQ3osiPqWHW67XzFtXdWAVvFzO2kTEjyJDaGEi561bmz4Lyh7zOBzeipaPUlX8YO80nt7NIA%3D%3D?uid=1815293422&amp;filename=WD40PURZ_4.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=145430&amp;hid=5e9a23390f02d1bd788df1e6f4e09925&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=87b9fb51fe0cd71e5cb3f6850980719a"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/6d163f3c6dd285620dc6feb3efe37b0b497e77705629eef3d74de750f507bcab/6a78903d/wmX7uFhq5iN1C1zQ3osiPpEXpd73GvNxhz87fuU_KWckzteqTAzMU8i2yuMoxpN2kimTx1kpdKppAwZPa0JQFA%3D%3D?uid=1815293422&amp;filename=WD40PURZ_5.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=126178&amp;hid=660a96ca848e76a4c0735471203b95ec&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8b4f644c3c13c6fb41f115ca6a96212b"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Western Digital</Brand>
-    <ProducerCode>WD40PURZ</ProducerCode>
-    <Type>HDD</Type>
-    <Size>4 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>WD40EFRX</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск WD40EFRX Western Digital Red</Title>
-    <Description>🔹 Новый Жёсткий диск 4TB WD40EFRX Western Digital Red.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: WD40EFRX
-▪ Серия: Western Digital Red
-▪ Объём: 4TB
-▪ Кэш: —
-▪ Скорость вращения: — об/мин
-▪ Технология записи: —
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: —
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>10900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD40EFRX/WD40EFRX_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD40EFRX/WD40EFRX_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD40EFRX/WD40EFRX_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD40EFRX/WD40EFRX_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD40EFRX/WD40EFRX_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Western Digital</Brand>
-    <ProducerCode>WD40EFRX</ProducerCode>
-    <Type>HDD</Type>
-    <Size>4 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>WD81PURZ</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск WD81PURZ Western Digital Purple</Title>
-    <Description>🔹 Новый Жёсткий диск 8TB WD81PURZ Western Digital Purple.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: WD81PURZ
-▪ Серия: Western Digital Purple
-▪ Объём: 8TB
-▪ Кэш: —
-▪ Скорость вращения: — об/мин
-▪ Технология записи: —
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: —
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>20900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD81PURZ/WD81PURZ_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD81PURZ/WD81PURZ_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD81PURZ/WD81PURZ_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD81PURZ/WD81PURZ_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD81PURZ/WD81PURZ_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Western Digital</Brand>
-    <ProducerCode>WD81PURZ</ProducerCode>
-    <Type>HDD</Type>
-    <Size>8 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>ST4000VN008</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Новый Жёсткий диск ST4000VN008 Seagate IronWolf</Title>
-    <Description>🔹 Новый Жёсткий диск 4TB ST4000VN008 Seagate IronWolf.
-Оригинальное устройство, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модель: ST4000VN008
-▪ Серия: Seagate IronWolf
-▪ Объём: 4TB
-▪ Кэш: —
-▪ Скорость вращения: — об/мин
-▪ Технология записи: —
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Назначение: —
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>10900</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST4000VN008/ST4000VN008_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST4000VN008/ST4000VN008_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST4000VN008/ST4000VN008_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST4000VN008/ST4000VN008_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST4000VN008/ST4000VN008_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST4000VN008</ProducerCode>
-    <Type>HDD</Type>
-    <Size>4 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -1486,218 +323,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <FormFactor>3.5</FormFactor>
   </Ad>
   <Ad>
-    <Id>SATA_16TB_ALL</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Жёсткие диски Seagate 16TB новые Exos IronWolf Pro</Title>
-    <Description>🔹 Новые серверные диски Seagate 16TB: Exos X18, IronWolf Pro, Exos X14.
-Оригинальные устройства, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-📦 В НАЛИЧИИ — 42 шт:
-
-16 ТБ:
-• ST16000NM001G — 17 шт. — 34 000₽ — Exos X18
-• ST16000NE000 — 16 шт. — 34 000₽ — Exos X18
-• ST16000NM000J — 2 шт. — 34 000₽ — Exos X18
-• ST16000VE000 — 6 шт. — 35 000₽ — IronWolf Pro
-
-12 ТБ:
-• ST12000NM007 — 1 шт. — 28 000₽ — Exos X14
-
-Цена в объявлении указана за 1 ТБ. Стоимость зависит от модели — см. список выше.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модели: ST16000NM001G / ST16000NE000 / ST16000NM000J / ST16000VE000 / ST12000NM007
-▪ Объём: 16 ТБ / 12 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Рабочая нагрузка: 550 ТБ/год (Exos), 300 ТБ/год (IronWolf Pro)
-▪ Назначение: серверы, СХД, NAS, видеонаблюдение, резервное копирование
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>34000</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/ec972abf39e5f9350a65f878c02d9f7d6fa1f0d3fbf5641d9f8227df653f6496/6a789042/wmX7uFhq5iN1C1zQ3osiPmSwTkLiQaBhS4YANNk8OHUcP6CpXyXF2Lad7YBzuegNa_fS42h6N2ym94JmL8VF1w%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_1_exos_x18.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=163483&amp;hid=abda83c2a33670eb6df1c899609ba172&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b9fcc2be27df79f0f76990687e0fa209"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/7a135c64a195ef50a4c5b8ffbc54864531db19cf5e4da6efe927ec61e9bcff99/6a789042/wmX7uFhq5iN1C1zQ3osiPqn8mD7dwLLHjzUl2XgcN_WNbQRzssmOHAat9DVR-k1bkAP8xCSojHwSW9Vn-Fekfw%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_2_ironwolf_pro.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=151757&amp;hid=29feba456f53d5de3f0f126f9dbe3fea&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=8d21f17ebc629c35e4cc480281938c5c"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/b2d2bdd03112829d62f33d49c56349f856e59d618ead7c0099bd8fd5b8fecd15/6a789043/wmX7uFhq5iN1C1zQ3osiPlvWJKi3S0hx0wY7dMfO8QYjLoaUrUgvhkcKwlC6c_46BLwwHOp9bYCGI9Za1Kn4Gg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_3_skyhawk_ai.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=162585&amp;hid=b2dedaa7601903863a65730ef53b72e4&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=6ed3547a95f65898e36d814b534d78c0"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/49a2f25a6f4686bf0548d3de89d0f3e35c5bd7d53f758a9a8c547c6e89b6845f/6a789043/wmX7uFhq5iN1C1zQ3osiPujFfdiRv-F-SE1IFNrtqVNLgeOJNuf4xFbXc9o_wPZq1gy7K1mub7Mo6rXdk5FdEg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_4_box.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=211309&amp;hid=eb7047412cfd566ebe70dd4f733f7342&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=a99983ff717cde35fbbe175a4069e4b0"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/17ab53e5c8dd85eadf5821b9c47c25667936d4aabc539ba99efc7dc17974dac9/6a789044/wmX7uFhq5iN1C1zQ3osiPnO1d9GnZ_Sq6lzPa3Ucs5i604Mqxq4fjrHYtrwx_SuJt9qqqbWJcuCwQ1b2FOfh_A%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_5_pcb.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=163144&amp;hid=7303fa1d821e2a73422346fbeafcc575&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=25ae5e453da60f229afb4f85df52fced"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/af31499fbd84d3ae887b3cae7699e2743fd3594d010763103d4c8cc0c929890b/6a789045/wmX7uFhq5iN1C1zQ3osiPoA42lcIN_LXqXmWCfhOwcxBhhtF_h5BqkYszoE2EzySTLqdvTHRsQhi8t6YVYxfXg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_6_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=91585&amp;hid=df25f5ef7ca7d8bc3234b0fa5991f369&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=5d036fe1566ac288f3a7323f82879b1d"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/9cf6d2117b54effc1fbbdffa5a3abce343915e376573230d79fadff5fdcdcf35/6a789045/wmX7uFhq5iN1C1zQ3osiPhfrDGMyXVmCYyN3PwBOVdvxm9IhB4N7nuOn4yTMIt1HkKTP1ekV7EppdZKlLhEL4Q%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_7_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=99744&amp;hid=5170fbc7c0977ac38d874386adda9408&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=bcd2d20a7e0b015c51681d760cea4f80"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/8e842b8c2eb0a5578612681a32b57d171627cd5376d694d4e343492e15642a67/6a789046/wmX7uFhq5iN1C1zQ3osiPjknu9oGy_QtbiuN36DfczdeY9CiZ-AWv_NqnrijakANnu9wBXk4_NGU9vjTmJidFw%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_8_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=94337&amp;hid=944847b1caf64a5c87e1d1239b0e19a9&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=829294db13477e14aa7da206ff82e8e1"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST16000NM001G</ProducerCode>
-    <Type>HDD</Type>
-    <Size>16 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>SATA_16TB_ALL_SPB</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
-    <Address>Санкт-Петербург, Невский пр-т, 1</Address>
-    <Latitude>59.93428</Latitude>
-    <Longitude>30.335098</Longitude>
-    <Title>Новые жёсткие диски Seagate 16 ТБ Exos IronWolf</Title>
-    <Description>🔹 Серверные жёсткие диски Seagate 16 ТБ новых моделей: Exos X18, IronWolf Pro, Exos X14.
-Оригинальная продукция Seagate, гарантия 12 месяцев. Заводской Refurbished — ноль запусков, нераскрытая запечатанная упаковка от производителя.
-
-📦 В НАЛИЧИИ — 42 диска:
-
-16 ТБ:
-• ST16000NM001G — 17 шт. — 34 000₽ — Exos X18
-• ST16000NE000 — 16 шт. — 34 000₽ — Exos X18
-• ST16000NM000J — 2 шт. — 34 000₽ — Exos X18
-• ST16000VE000 — 6 шт. — 35 000₽ — IronWolf Pro
-
-12 ТБ:
-• ST12000NM007 — 1 шт. — 28 000₽ — Exos X14
-
-Цена за штуку зависит от модели. Указанная в объявлении стоимость — за 1 ТБ.
-
-💯 КАЧЕСТВО И ПРОВЕРКА
-Только проверенные поставщики. Любая партия проходит выборочный контроль полным сканированием. По запросу — индивидуальное вскрытие и тестирование конкретных дисков из вашего заказа.
-📌 БОНУС
-Напишите в чат кодовое слово «БЕСПЛАТНАЯ ДОСТАВКА» и получите бесплатную доставку до терминала ТК.
-
-🏢 ОПТ И ЮРИДИЧЕСКИМ ЛИЦАМ
-✓ Полный пакет закрывающих документов для ИП и ООО.
-✓ Оплата по счёту, с НДС или без НДС.
-✓ Оптовые цены от 5 единиц — индивидуальные условия.
-✓ Готовим документы для тендеров и госзакупок: КП, спецификации.
-✓ Под заказ поставляем партии любого объёма (срок 4–6 недель).
-✓ Более 200 компаний по России доверяют нам.
-
-📦 ВЕСЬ АССОРТИМЕНТ
-Диски в наличии и под заказ — от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Нужна другая модель или объём? Напишите — найдём под ваш проект!
-
-✅ ПОЧЕМУ МЫ
-▸ Поставки напрямую — без наценок посредников
-▸ Гарантия 1 год на каждый диск
-▸ Строго оригинальная продукция
-▸ Отправка день в день при оплате до 15:00
-▸ Профессиональная упаковка: антистатик + пупырчатая плёнка
-▸ Любая удобная форма оплаты
-▸ Опыт работы с тендерами
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модели: ST16000NM001G / ST16000NE000 / ST16000NM000J / ST16000VE000 / ST12000NM007
-▪ Объём: 16 ТБ и 12 ТБ
-▪ Буфер: 256 МБ
-▪ Скорость: 7200 об/мин
-▪ Тип записи: CMR
-▪ Форм-фактор: 3.5 дюйма
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Нагрузка: 550 ТБ/год (Exos), 300 ТБ/год (IronWolf Pro)
-▪ Назначение: серверное оборудование, СХД, NAS, системы видеонаблюдения
-▪ Состояние: Новые, заводская упаковка
-
-🚚 ОТПРАВКА И САМОВЫВОЗ
-Доставка по всей России:
-▪ Авито Доставка (СДЭК, Boxberry, Почта России, 5Post)
-▪ Транспортные компании — СДЭК, ПЭК, Деловые Линии
-▪ Курьерская доставка (по предоплате)
-Самовывоз: Санкт-Петербург.
-
-🎯 Получите оригинальный диск Seagate по лучшей цене в России.
-Напишите в чат — поможем выбрать оптимальный диск под вашу задачу и бюджет.</Description>
-    <Price>34000</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://downloader.disk.yandex.ru/disk/2624f420842470d7fc24ef88d144bd8f95ba823445333e9e485ac37a9aba26de/6a789046/wmX7uFhq5iN1C1zQ3osiPvJV8_KnZuVZpr8BWV0JoHf0JL3k9SgxVAmcqIZAG45ujBBV_ge0XJJMv8nTRQTMZQ%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_1_exos_x18.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=199404&amp;hid=9cbbea2e9a6770995962601769b418ff&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=35cc1eda9c0682e8b678423ca2be8f0b"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/2a7ba5424411f94bb3a46d767bf7cccb302257bae27c7ac4f91e02168d77a2d9/6a789046/wmX7uFhq5iN1C1zQ3osiPppz7JY46USMmMpkjQgVtJW2jYr8uuVc2MSEaqDJJ6SJuptZE0FjS2E0ooYIrdVCkA%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_2_ironwolf_pro.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=218143&amp;hid=305b36e505a07cfe9119a2cf2decc114&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=1d9a7ceacf2b0f93f98a716f2a7fb92f"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/1000ae49491edea8e4cf13ee3a34530f741ccfe6e78dda11396c83667028b700/6a789047/wmX7uFhq5iN1C1zQ3osiPomw862VcJlCdUNH_OY-cxoXFy85XJXYehBDGsUD8yqYomRPGYa7I59CtIyhyF146Q%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_3_skyhawk_ai.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=198502&amp;hid=1d83423be30e4c50d7cdd4bfdd49b60e&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=c1f45c86540fba0b1325018abcfcec1b"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/61647e5f452a932b78de81b420f81b62aa3e67b83a3d43d771e3ce899fe2cd4a/6a789047/wmX7uFhq5iN1C1zQ3osiPhYlj_Bt3tYwsl7ATuRzKCFYvoQAgdpXiKA5G2mIP6z1VjEdTQYWivr8FQUw-oRZLA%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_4_box.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=294418&amp;hid=5b766aaa480d87f5d3de67ac9b418eee&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ccf2e2819cc23b79986902405a879c6e"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/fe05aa825ec9e978c2a1c59d4775092b29345fe7f72d87e693fba3ce08e48805/6a789048/wmX7uFhq5iN1C1zQ3osiPvbPHcIq5NuAIKfAgjmV77TXiqfRuNDISQZZF7Hr8TeRNhIMPZyaQvEDy0AIfjMZBg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_5_pcb.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=198676&amp;hid=22cc345bb9ed5d6db087fce10b904b9f&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=930631d27f46f0e350d07108d08407fd"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/d3683965a81d1a4412770a2a1c24a2885147897cca6bb2d17bcf993a4c08a0ad/6a789048/wmX7uFhq5iN1C1zQ3osiPvViWmHCjGfykGYZxlHKiqfx22fIRXYcOBaflNziWCX-L-qBkuOESLY_eOk26Pwbdg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_6_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=116792&amp;hid=3685c415392ba5990053ef42bd6e39c5&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=06726bcc1e219345f8f15b9ec31237b9"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/4c67d4e5f74a39bc8e51ec284c463061263e2e112ed7ea55a2b4a4a1d9e10171/6a789049/wmX7uFhq5iN1C1zQ3osiPgGMZKNHRewX_h4QdI2d1e3j0IXCpvvYuK0BFfXBE955N1LnC2RE8CUGB5KpkqdQfQ%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_7_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=110867&amp;hid=2339f959d06e191e4d066dc30225f3c9&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=ed59001c42391f52037522cd4d20b044"/>
-      <Image url="https://downloader.disk.yandex.ru/disk/b972f32358048a53f80ec03e3ea9cf1ef36b5c57cb021f1e1c27f2801a79fd09/6a789049/wmX7uFhq5iN1C1zQ3osiPh2oU3AMxK46UbxnbV1dQbWgEN-8TYWkBa1QcWtAe00yfUwmsgVutXbPc6yR26Blmg%3D%3D?uid=1815293422&amp;filename=SATA_16TB_ALL_8_reviews.jpg&amp;disposition=attachment&amp;hash=&amp;limit=0&amp;content_type=image%2Fjpeg&amp;owner_uid=1815293422&amp;fsize=122440&amp;hid=a9a5e8f97954aaebdad888ed2aa9ee9a&amp;media_type=image&amp;tknv=v3&amp;is_direct_zip_experiment=1&amp;etag=b88e207ede5da10f19aa914877f734c6"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST16000NM001G</ProducerCode>
-    <Type>HDD</Type>
-    <Size>16 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
     <Id>SAS_2TB</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -1743,7 +370,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_14TB</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -1789,7 +416,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SATA_14TB</Id>
-    <DateBegin>2026-08-19T12:47:45</DateBegin>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -1839,6 +466,118 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <ProducerCode>ST14000NM001G</ProducerCode>
     <Type>HDD</Type>
     <Size>14 ТБ</Size>
+    <FormFactor>3.5</FormFactor>
+  </Ad>
+  <Ad>
+    <Id>SATA_16TB_ALL</Id>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
+    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
+    <Latitude>55.038227</Latitude>
+    <Longitude>82.919379</Longitude>
+    <Title>Жёсткий диск Seagate Exos X18 16TB SATA новый</Title>
+    <Description>🔒 Новые серверные диски Seagate Exos X18 16TB SATA
+
+В наличии на складе в Новосибирске — 14 шт:
+
+· ST16000NM001G — 8 шт
+· ST16000NM000J — 6 шт
+
+Все диски новые, в заводской антистатической упаковке.
+Интерфейс: SATA 6 Гбит/с
+Скорость: 7200 об/мин
+Кэш: 256 МБ
+Объём: 16 ТБ
+Нагрузка: 550 ТБ/год (серверный класс)
+Гарантия: 5 лет производителя
+
+Подходят для серверов, СХД, enterprise-NAS, видеонаблюдения.
+
+Самовывоз — Новосибирск. Отправка по РФ.
+Работаем с юрлицами — счёт на оплату, УПД.</Description>
+    <Price>34000</Price>
+    <Category>Товары для компьютера</Category>
+    <GoodsType>Комплектующие</GoodsType>
+    <ProductsType>Жёсткие диски</ProductsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_1_exos_x18.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_2_ironwolf_pro.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_3_skyhawk_ai.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_4_box.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_5_pcb.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_6_reviews.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_7_reviews.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_8_reviews.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
+    </Images>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
+    <WeightForDelivery>0.7</WeightForDelivery>
+    <LengthForDelivery>15</LengthForDelivery>
+    <WidthForDelivery>10</WidthForDelivery>
+    <HeightForDelivery>3</HeightForDelivery>
+    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
+    <Brand>Seagate</Brand>
+    <Size>16 ТБ</Size>
+  </Ad>
+  <Ad>
+    <Id>WD30PURX</Id>
+    <DateBegin>2026-08-19T12:56:34</DateBegin>
+    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
+    <Latitude>55.038227</Latitude>
+    <Longitude>82.919379</Longitude>
+    <Title>Жёсткий диск WD Purple 3TB WD30PURX новый видеонаблюдение</Title>
+    <Description>🔒 Новый жёсткий диск WD Purple 3TB для систем видеонаблюдения
+
+В наличии на складе в Новосибирске — 1 шт.
+
+Модель: WD30PURX
+Серия: WD Purple
+Объём: 3 ТБ
+Интерфейс: SATA 6 Гбит/с
+Скорость: 5400 об/мин
+Форм-фактор: 3.5"
+Назначение: круглосуточное видеонаблюдение (24/7)
+
+Диск новый, в заводской упаковке.
+
+Самовывоз — Новосибирск. Отправка по РФ.
+Работаем с юрлицами — счёт на оплату, УПД.</Description>
+    <Price>6500</Price>
+    <Category>Товары для компьютера</Category>
+    <GoodsType>Комплектующие</GoodsType>
+    <ProductsType>Жёсткие диски</ProductsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <Condition>Новое</Condition>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/1784182976_1.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/1784182976_2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/1784182976_3.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/1784182976_4.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/1784182976_5.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/WD30PURX_victoria_scan.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
+      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
+    </Images>
+    <ListingFee>Package</ListingFee>
+    <AdStatus>Free</AdStatus>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <Delivery>ПВЗ, Курьер, Самовывоз с онлайн-оплатой</Delivery>
+    <WeightForDelivery>0.7</WeightForDelivery>
+    <LengthForDelivery>15</LengthForDelivery>
+    <WidthForDelivery>10</WidthForDelivery>
+    <HeightForDelivery>3</HeightForDelivery>
+    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
+    <Brand>Western Digital</Brand>
+    <ProducerCode>WD30PURX</ProducerCode>
+    <Type>HDD</Type>
+    <Size>3 ТБ</Size>
     <FormFactor>3.5</FormFactor>
   </Ad>
 </Ads>
