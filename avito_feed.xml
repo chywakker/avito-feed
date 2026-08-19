@@ -2,7 +2,7 @@
 <Ads>
   <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -78,11 +78,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Seagate</Brand>
     <ProducerCode>ST8000AS0003</ProducerCode>
@@ -92,7 +87,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000LM035</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -165,11 +160,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Seagate</Brand>
     <ProducerCode>ST1000LM035</ProducerCode>
@@ -179,7 +169,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST1000DX002</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Респ. Татарстан, Казань, ул. Баумана, 13</Address>
     <Latitude>55.787858</Latitude>
     <Longitude>49.123378</Longitude>
@@ -252,11 +242,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Seagate</Brand>
     <ProducerCode>ST1000DX002</ProducerCode>
@@ -266,7 +251,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -310,11 +295,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Seagate</Brand>
     <ProducerCode>ST8000NM001A</ProducerCode>
@@ -324,7 +304,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SATA_16TB_ALL</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -370,18 +350,13 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Seagate</Brand>
     <Size>16 ТБ</Size>
   </Ad>
   <Ad>
     <Id>WD30PURX</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -422,11 +397,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Western Digital</Brand>
     <ProducerCode>WD30PURX</ProducerCode>
@@ -436,7 +406,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST12000NM0007</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -478,11 +448,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Seagate</Brand>
     <ProducerCode>ST12000NM0007</ProducerCode>
@@ -492,7 +457,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST8000DM004</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -534,11 +499,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Seagate</Brand>
     <ProducerCode>ST8000DM004</ProducerCode>
@@ -548,7 +508,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST6000VX001</Id>
-    <DateBegin>2026-08-19T14:08:59</DateBegin>
+    <DateBegin>2026-08-19T14:16:10</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -591,11 +551,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <AdStatus>Free</AdStatus>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <Delivery>Самовывоз</Delivery>
-    <WeightForDelivery>0.7</WeightForDelivery>
-    <LengthForDelivery>15</LengthForDelivery>
-    <WidthForDelivery>10</WidthForDelivery>
-    <HeightForDelivery>3</HeightForDelivery>
     <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
     <Brand>Seagate</Brand>
     <ProducerCode>ST6000VX001</ProducerCode>
