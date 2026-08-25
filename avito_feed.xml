@@ -2,7 +2,7 @@
 <Ads>
   <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -82,7 +82,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -167,7 +167,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_2TB</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -242,7 +242,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_14TB</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -318,7 +318,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SATA_14TB</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -398,7 +398,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>WD30PURX</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -476,7 +476,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST12000NM0007</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -555,7 +555,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST8000DM004</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -634,7 +634,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST6000VX001</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
+    <DateBegin>2026-08-25T12:28:47</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -710,105 +710,6 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <ProducerCode>ST6000VX001</ProducerCode>
     <Type>HDD</Type>
     <Size>6 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>SATA_16TB_ALL</Id>
-    <DateBegin>2026-08-25T12:00:48</DateBegin>
-    <DateEnd>2026-08-24T12:00:48</DateEnd>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Жёсткие диски Seagate 16TB новые Exos IronWolf Pro</Title>
-    <Description>🔹 Новые серверные диски Seagate 16TB: Exos X18, IronWolf Pro, Exos X14.
-Оригинальные устройства, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-📦 В НАЛИЧИИ — 42 шт:
-
-16 ТБ:
-• ST16000NM001G — 17 шт. — 34 000₽ — Exos X18
-• ST16000NE000 — 16 шт. — 34 000₽ — Exos X18
-• ST16000NM000J — 2 шт. — 34 000₽ — Exos X18
-• ST16000VE000 — 6 шт. — 35 000₽ — IronWolf Pro
-
-12 ТБ:
-• ST12000NM007 — 1 шт. — 28 000₽ — Exos X14
-
-Цена в объявлении указана за 1 ТБ. Стоимость зависит от модели — см. список выше.
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модели: ST16000NM001G / ST16000NE000 / ST16000NM000J / ST16000VE000 / ST12000NM007
-▪ Объём: 16 ТБ / 12 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Технология записи: CMR
-▪ Форм-фактор: 3.5"
-▪ Интерфейс: SATA 6 Гбит/с
-▪ Рабочая нагрузка: 550 ТБ/год (Exos), 300 ТБ/год (IronWolf Pro)
-▪ Назначение: серверы, СХД, NAS, видеонаблюдение, резервное копирование
-▪ Состояние: Новый, заводская упаковка
-
-🚚 ДОСТАВКА И САМОВЫВОЗ
-Отправляем по всей России:
-▪ Авито Доставка (Boxberry, СДЭК, Почта России, 5Post, Яндекс)
-▪ Транспортные компании (для крупных заказов)
-▪ Курьерские службы (по предоплате)
-Самовывоз: Новосибирск, Красный проспект 58 (м. Красный проспект).
-
-🎯 Не переплачивайте — получите оригинальный диск по лучшей цене.
-Напишите в чат, и я подберу идеальный вариант под ваш бюджет и задачу.</Description>
-    <Price>34000</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_1_exos_x18.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_2_ironwolf_pro.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_3_skyhawk_ai.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_4_box.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_5_pcb.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_6_reviews.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_7_reviews.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SATA_16TB_ALL_8_reviews.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST16000NM001G</ProducerCode>
-    <Type>HDD</Type>
-    <Size>16 ТБ</Size>
     <FormFactor>3.5</FormFactor>
   </Ad>
 </Ads>
