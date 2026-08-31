@@ -2,7 +2,7 @@
 <Ads>
   <Ad>
     <Id>ST8000AS0003</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
+    <DateBegin>2026-08-31T13:01:08</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -82,7 +82,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_EXOS_ALL</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
+    <DateBegin>2026-08-31T13:01:08</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -167,7 +167,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>SAS_2TB</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
+    <DateBegin>2026-08-31T13:01:08</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -241,164 +241,8 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
     <FormFactor>3.5</FormFactor>
   </Ad>
   <Ad>
-    <Id>SAS_14TB</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Жёсткий диск 14TB SAS Seagate Exos X16 новый</Title>
-    <Description>🔹 Новый серверный диск Seagate Exos X16 14TB SAS
-Оригинальные устройства, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-📦 В НАЛИЧИИ — 1 шт:
-
-• ST14000NM002G — 1 шт. — 35 000₽ — Exos X16
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модели: ST14000NM002G
-▪ Объём: 14 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Тип записи: CMR
-▪ Интерфейс: SAS 12 Гбит/с
-▪ Нагрузка: 550 ТБ/год (серверный класс)
-▪ Форм-фактор: 3.5 дюйма
-▪ Интерфейс: SATA 6 Гбит/с
-
-Подходят для серверов, СХД, enterprise-NAS, видеонаблюдения.</Description>
-    <Price>35000</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/SAS_EXOS_ALL_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST14000NM002G</ProducerCode>
-    <Type>HDD</Type>
-    <Size>14 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
-    <Id>SATA_14TB</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
-    <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
-    <Latitude>55.038227</Latitude>
-    <Longitude>82.919379</Longitude>
-    <Title>Жёсткий диск Seagate Exos X16 14TB SATA новый</Title>
-    <Description>🔹 Новые серверные диски Seagate Exos X16 14TB SATA
-Оригинальные устройства, гарантия 1 год. Заводской Refurbished — 0 запусков, невскрытая запечатанная упаковка производителя.
-
-📦 В НАЛИЧИИ — 7 шт:
-
-• ST14000NM001G — 7 шт. — 33 000₽ — Exos X16
-
-💯 Гарантия качества
-Работаем только с проверенными поставщиками. Каждая партия выборочно проверяется полным сканированием, вскрытие и сканирование индивидуальных дисков из вашего заказа по согласованию, любые тесты.
-
-📌 ПОДАРОК
-Напишите в чат кодовую фразу «САТА КАБЕЛЬ» и получите новый SATA-кабель в подарок к заказу.
-
-🏢 ДЛЯ БИЗНЕСА И ОПТА
-✓ Работаем с юридическими лицами и ИП — полный пакет закрывающих документов.
-✓ Оплата по счёту, с НДС или без — на ваш выбор.
-✓ Специальные цены при заказе от 5 штук — обсуждаем индивидуально.
-✓ Поставки под тендеры, госзакупки и крупные проекты — подготовим коммерческое предложение и спецификацию.
-✓ При необходимости закажем любой объём партии (срок 4–6 недель) по ценам ниже рыночных.
-✓ Работаем с более чем 200 компаниями по всей РФ — надёжный партнёр для вашего бизнеса.
-
-📦 АССОРТИМЕНТ
-В наличии и под заказ диски от 500 ГБ до 22 ТБ:
-Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrastar.
-Не нашли нужную модель или объём? Напишите — привезём под ваш проект!
-
-✅ НАШИ ПРЕИМУЩЕСТВА
-▸ Прямые поставки — цены без посредников
-▸ Гарантия 1 год
-▸ Только оригинальная продукция
-▸ Отправка в день заказа
-▸ Надёжная упаковка (антистатик + пузырчатая плёнка)
-▸ Любой способ оплаты
-▸ Работаем под тендеры и госзакупки
-
-⚙️ ХАРАКТЕРИСТИКИ
-▪ Модели: ST14000NM001G
-▪ Объём: 14 ТБ
-▪ Кэш: 256 МБ
-▪ Скорость вращения: 7200 об/мин
-▪ Тип записи: CMR
-▪ Нагрузка: 550 ТБ/год (серверный класс)
-▪ Форм-фактор: 3.5 дюйма
-▪ Интерфейс: SATA 6 Гбит/с
-
-Подходят для серверов, СХД, enterprise-NAS, видеонаблюдения.</Description>
-    <Price>33000</Price>
-    <Category>Товары для компьютера</Category>
-    <GoodsType>Комплектующие</GoodsType>
-    <ProductsType>Жёсткие диски</ProductsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <Condition>Новое</Condition>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST14000NM001G_1.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST14000NM001G_2.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST14000NM001G_3.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST14000NM001G_4.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST14000NM001G_5.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/ST14000NM001G_6.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo1_nadezhny_prodavets.jpg"/>
-      <Image url="https://raw.githubusercontent.com/chywakker/avito-feed/main/photos/promo2_assortiment.jpg"/>
-    </Images>
-    <ListingFee>Package</ListingFee>
-    <AdStatus>Free</AdStatus>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ReturnPolicy>По любой причине – 14 дней</ReturnPolicy>
-    <Brand>Seagate</Brand>
-    <ProducerCode>ST14000NM001G</ProducerCode>
-    <Type>HDD</Type>
-    <Size>14 ТБ</Size>
-    <FormFactor>3.5</FormFactor>
-  </Ad>
-  <Ad>
     <Id>WD30PURX</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
+    <DateBegin>2026-08-31T13:01:08</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -476,7 +320,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST12000NM0007</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
+    <DateBegin>2026-08-31T13:01:08</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -555,7 +399,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST8000DM004</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
+    <DateBegin>2026-08-31T13:01:08</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
@@ -634,7 +478,7 @@ Seagate BarraCuda, SkyHawk, Exos, IronWolf, WD Blue, Purple, Red, Gold, Ultrasta
   </Ad>
   <Ad>
     <Id>ST6000VX001</Id>
-    <DateBegin>2026-08-31T12:01:08</DateBegin>
+    <DateBegin>2026-08-31T13:01:08</DateBegin>
     <Address>Новосибирская обл., Новосибирск, Красный пр-т, 58</Address>
     <Latitude>55.038227</Latitude>
     <Longitude>82.919379</Longitude>
